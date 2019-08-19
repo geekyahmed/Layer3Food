@@ -1,0 +1,73 @@
+[
+    {
+        "id": "1",
+        "title": "Hamburger",
+        "image": "../src/assets/img/burger-1.jpg",
+        "desc": "Lorem impsum is one of the best text used in web development industry",
+        "price": "500.25"
+    },
+    {
+        "id": "2",
+        "title": "Pasta",
+        "image": "../src/assets/img/pasta-1.jpg",
+        "desc": "Lorem impsum is one of the best text used in web development industry",
+        "price": "630.70"
+    },
+    {
+        "id": "3",
+        "title": "Italian Pizza",
+        "image": "../src/assets/img/pizza-1.jpg",
+        "desc": "Lorem impsum is one of the best text used in web development industry",
+        "price": "1500.45"
+    },
+    {
+        "id": "4",
+        "title": "Burger Supreme",
+        "image": "../src/assets/img/burger-1.jpg",
+        "desc": "Lorem impsum is one of the best text used in web development industry",
+        "price": "650.15"
+    },
+    {
+        "id": "5",
+        "title": "Spagheti",
+        "image": "../src/assets/img/pasta-1.jpg",
+        "desc": "Lorem impsum is one of the best text used in web development industry",
+        "price": "230.90"
+    },
+    {
+        "id": "6",
+        "title": "French Pizza",
+        "image": "../src/assets/img/pizza-1.jpg",
+        "desc": "Lorem impsum is one of the best text used in web development industry",
+        "price": "1760.65"
+    },
+    {
+        "id": "7",
+        "title": "Cheesy Burger",
+        "image": "../src/assets/img/burger-1.jpg",
+        "desc": "Lorem impsum is one of the best text used in web development industry",
+        "price": "850.35"
+    },
+    {
+        "id": "8",
+        "title": "Macaroni",
+        "image": "../src/assets/img/pasta-1.jpg",
+        "desc": "Lorem impsum is one of the best text used in web development industry",
+        "price": "750.55"
+    },
+    {
+        "id": "9",
+        "title": "Chicken Pizza",
+        "image": "../src/assets/img/pizza-1.jpg",
+        "desc": "Lorem impsum is one of the best text used in web development industry",
+        "price": "2570.50"
+    },
+    {
+        "id": "10",
+        "title": "Beef Pizza",
+        "image": "../src/assets/img/pizza-1.jpg",
+        "desc": "Lorem impsum is one of the best text used in web development industry",
+        "price": "1820.85"
+    }
+    
+]
