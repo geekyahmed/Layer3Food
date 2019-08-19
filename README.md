@@ -1,4 +1,4 @@
-# vueapp
+# Layer3Food Demo
 
 ## Project setup
 ```
