@@ -76,6 +76,8 @@ export default {
 </script>
 
 <style>
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
 *{
   border-radius: 0 !important;
   font-family: Poppins;
